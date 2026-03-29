@@ -34,9 +34,9 @@ Researched UPI/Online Payment Fraud and created a prevention checklist for colle
 ---
 
 ## Links
-- Google Form Quiz: *(add link after Task 3)*
-- LinkedIn: *(add link after Task 2)*
-- Kaggle: *(add link after Task 2)*
+- Google Form Quiz: https://docs.google.com/forms/d/e/1FAIpQLSegLovvS7FgXjAg0tIN07yffUvVXCtZjtMqg6rHmdyLjp-A_w/viewform?usp=preview
+- LinkedIn: https://www.linkedin.com/in/piyush-pillay
+- Kaggle: https://www.kaggle.com/piyushpillay
 
 ---
 
